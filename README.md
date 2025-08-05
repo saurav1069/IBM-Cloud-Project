@@ -105,9 +105,9 @@ This personalized preparation experience boosts candidate confidence and readine
 
 ## 📁 Repository Contents
 
-- `presentation.pptx`: Final presentation submitted during project evaluation.
-- `README.md`: Project documentation file (this file).
-- `certificates/`: IBM SkillsBuild course completion certificates.
+-  Final presentation submitted during project evaluation.
+-  Project documentation file (this file).
+-  IBM SkillsBuild course completion certificates.
 
 ---
 
